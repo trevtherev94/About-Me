@@ -1,5 +1,5 @@
-<!-- Portfolio site
+Portfolio site
 index.html
 portfolio.html
 contact.html
-styles.css -->
+styles.css
